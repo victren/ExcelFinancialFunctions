@@ -1,0 +1,4 @@
+ACCRINT function
+Returns the accrued interest for a security that pays periodic interest.
+ACCRINT(issue, first_interest, settlement, rate, par, frequency, [basis], [calc_method])
+Only culculate the accrued interest for the settlement date
